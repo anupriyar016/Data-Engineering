@@ -1,3 +1,4 @@
 # Data-Engineering
-Beginner level Data Modelling and Data Warehousing projects
-Collected E-commerce Retail Dataset from Kaggle, and tried Data modelling by creating ER Diagrams and built tables in POSTGRES SQL
+Beginner level Data Modelling 
+Collected E-commerce Retail Dataset, and tried Data modelling by creating ER Diagrams and built tables in postgreSQL.
+For the created ER model, created dimensional model using star schema and built tables in postgreSQL
